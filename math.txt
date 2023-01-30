@@ -1,1 +1,8 @@
 it is a math formula text file.
+a. Set Theory
+b. Probability and Statistics
+c. Algebra
+d. Coordinate Geometry
+e. Calculus
+f. Vectors 
+g. Trigonometry 
